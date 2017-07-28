@@ -1,0 +1,33 @@
+.border-gray{border: 1px solid #ccc;}
+.m-center{margin:0 auto;text-align: center;}
+.m-top{margin-top:20px;}
+.p-top{padding-top:20px;}
+.p-bottom{padding-bottom:20px;}
+.padding{padding:5px;}
+.block{display: block;}
+.topic{text-align: center;}
+.topic a{border:1px solid #E4E4E4;margin-right:5px;height:34px;line-height:32px;border-radius: 20px;}
+.b-l{padding: 3px 0 3px 10px;}
+.b-l.bl-0{border-left: 3px solid #FD5F00;}
+.b-l.bl-1{border-left: 3px solid #FFC002;}
+.b-l.bl-2{border-left: 3px solid #00A635;}
+.b-l.bl-3{border-left: 3px solid #00C3C4;}
+.b-l.bl-4{border-left: 3px solid #B92400;}
+.b-l.bl-5{border-left: 3px solid #E07E00;}
+.b-l.bl-6{border-left: 3px solid #27C790;}
+.b-l.bl-7{border-left: 3px solid #5C68EC;}
+.b-l.bl-8{border-left: 3px solid #00A9DA;}
+.b-l.bl-9{border-left: 3px solid #E41A91;}
+.m-left{margin-left:10px;}
+.border-bottom{border-bottom: 1px solid #ccc;}
+.mp{margin-top: 18px;padding-bottom: 18px;}
+.mps{margin-top: 8px;}
+.fonts{font-size:10px;}
+/* 超出区域以省略号代替 */
+.elli{
+	display:block;
+	word-break:keep-all;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
